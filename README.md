@@ -1,2 +1,2 @@
-# swift-photoplethysmograph
+### Swift photoplethysmograph
 Photoplethysmograph
